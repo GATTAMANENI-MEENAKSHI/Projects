@@ -1,1 +1,1 @@
-# This c application healp in counting the frquencies of words in an input data.
+# This c application helps in counting the frequencies of words in an input data.
